@@ -2,4 +2,4 @@
 
 Input image:
 
-![test](office.png)
+![](office.png)
