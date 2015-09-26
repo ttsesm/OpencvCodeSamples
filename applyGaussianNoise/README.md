@@ -1,5 +1,5 @@
  This example shows how you can apply some gaussian based noise on an given image.
 
-Input image:
+Input image:             Output image:
 
-![](office.png)
+![](office.png) ![](noisy.png)
