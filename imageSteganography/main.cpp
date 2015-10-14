@@ -111,8 +111,8 @@ void deSteganograph(Mat &aStegedImage)
 
 int main()
 {
-    Mat img1 = imread("../lena.jpg");
-    Mat img2 = imread("../baboon.jpg");
+    Mat img1 = imread("../lena.png");
+    Mat img2 = imread("../baboon.png");
 
     if(img1.empty() || !img1.data)
     {
