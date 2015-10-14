@@ -1,6 +1,6 @@
 Apply an overlay application by using the aplha channel of the images.
 
-![]overlay.png)
+![](overlay.png)
 
 ![](underlay.png)
 
