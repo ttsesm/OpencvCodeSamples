@@ -1,3 +1,7 @@
+// http://answers.opencv.org/question/74129/is-there-any-efficientfastbest-way-to-removedelete-a-given-rowcol-from-a-cvmat/
+// http://stackoverflow.com/questions/29696805/what-is-the-best-way-to-remove-a-row-or-col-from-a-cv-mat
+// https://gist.github.com/enpe/369a7a17fd9b3856b544
+
 #include <iostream>
 #include <opencv2/opencv.hpp>
 
